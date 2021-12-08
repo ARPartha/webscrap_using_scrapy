@@ -4,6 +4,8 @@
 <span>Tools: Xampp <br> Library: scrapy</span>
 
 <h1> Commands </h1>
+<h2>File Name and Directory</h2>
+<span>Filename: data_spider.py <br>Directory: VrboScraping->spiders->data_spider.py </span> <br>
 <h2>Scrapy installation</h2>
 <span>sudo pip3 install scrapy</span> <br>
 <h2>Venv installation</h2>
