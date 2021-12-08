@@ -12,6 +12,8 @@
 <span>sudo apt install python3.8 venv</span> <br>
 <h2>creating venv</h2>
 <span>source venv/bin/activate</span><br>
+<h2>Install Scrapy</h2>
+<span>pip install scrapy</span><br>
 <h2>Go to Directory</h2>
 <span>cd VrboScraping</span><br>
 <h2>Run Project</h2>
