@@ -1,9 +1,9 @@
 # webscrap_using_scrapy
 
 <h1> Tools and Libraries: </h1>
-<span>Tools: Xampp Library: scrapy</span>
+<span>Tools: Xampp <br> Library: scrapy</span>
 
-<h1> Commands </h1> <br>
+<h1> Commands </h1>
 <h2>Scrapy installation</h2>
 <span>sudo pip3 install scrapy</span> <br>
 <h2>Venv installation</h2>
